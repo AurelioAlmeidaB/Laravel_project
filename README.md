@@ -58,7 +58,7 @@ Antes de rodar o projeto, é necessário ter instalado:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/PedroBerardo0410/Laravel_project.git
+git clone https://github.com/AurelioAlmeidaB/Laravel_project.git
 ```
 
 Entre na pasta do projeto:
@@ -190,4 +190,4 @@ npm run dev
 
 ## Autor
 
-Desenvolvido por **Pedro Berardo** como projeto de estudo em Laravel.
+Desenvolvido por **Aurelio Almeida** como projeto de estudo em Laravel.
