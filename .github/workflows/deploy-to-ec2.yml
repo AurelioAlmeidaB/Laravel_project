@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout the files
         uses: actions/checkout@v6
+      - name: Verify workflow test
+        run: echo "Ação de teste - commit para verificar trigger do workflow"
       - name: copy files with SSH
         uses: easingthemes/ssh-deploy@main
         env:
